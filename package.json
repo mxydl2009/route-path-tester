@@ -1,6 +1,7 @@
 {
   "name": "route-path-tester",
   "displayName": "routePathTester",
+  "publisher": "mxydl2009",
   "description": "routePathTester for testing the matched result between react route path and pathname of url",
   "version": "0.0.1",
   "engines": {
