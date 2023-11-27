@@ -1,7 +1,7 @@
 {
-  "name": "cat-coding",
-  "displayName": "Cat-Coding",
-  "description": "cat-coding for learning vscode extension",
+  "name": "route-path-tester",
+  "displayName": "routePathTester",
+  "description": "routePathTester for testing the matched result between react route path and pathname of url",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxydl2009/route-path-tester.git"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
